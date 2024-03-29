@@ -20,8 +20,6 @@ public class TemperaturaAgua{
             
         }
 
-        
-
         double media = somaTemperatura / 12;
 
         System.out.println("A média de hoje das temperaturas é: " + media + "º C");
