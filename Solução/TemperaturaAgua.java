@@ -6,7 +6,7 @@ public class TemperaturaAgua{
 
         double somaTemperatura = 0;
 
-        for(int i = 1; i < 13; i++){
+        for(int i = 1; i <= 12; i++){
             double temperatura;
             do{
                 System.out.print("Digite a temperatura " + i + " (entre 4 e 10): ");
